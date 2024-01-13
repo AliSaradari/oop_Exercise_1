@@ -1,0 +1,14 @@
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\bin\Debug\net8.0\OOP-Exercise-1.exe
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\bin\Debug\net8.0\OOP-Exercise-1.deps.json
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\bin\Debug\net8.0\OOP-Exercise-1.runtimeconfig.json
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\bin\Debug\net8.0\OOP-Exercise-1.dll
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\bin\Debug\net8.0\OOP-Exercise-1.pdb
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\OOP-Exercise-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\OOP-Exercise-1.AssemblyInfoInputs.cache
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\OOP-Exercise-1.AssemblyInfo.cs
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\OOP-Exercise-1.csproj.CoreCompileInputs.cache
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\OOP-Exercise-1.dll
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\refint\OOP-Exercise-1.dll
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\OOP-Exercise-1.pdb
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\OOP-Exercise-1.genruntimeconfig.cache
+D:\VS Save\OOP-Exercise-1\OOP-Exercise-1\obj\Debug\net8.0\ref\OOP-Exercise-1.dll
